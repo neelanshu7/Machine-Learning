@@ -1,5 +1,6 @@
 # Machine-Learning
-Machine Learning operations and models
+Machine Learning operations and models.
+
 Secquence:
 1. EDA
 2. PCA
