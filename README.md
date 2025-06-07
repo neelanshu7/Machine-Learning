@@ -18,37 +18,37 @@ Machine Learning (ML) is a sub‑field of Artificial Intelligence (AI) tha
 | **Online & Incremental Learning** | Update model continuously as data streams in                                            | Stochastic Gradient Descent, Hoeffding Trees                | Real‑time recommendation engines, stock trading     |
 
 
-## Core Workflow
-**Problem Definition**
+## Core Workflow<br>
+**Problem Definition**<br>
   Clarify business or research objectives, the nature of inputs and desired outputs, and acceptable error tolerance.
 
-**Data Collection & Integration**
+**Data Collection & Integration**<br>
   Gather data from databases, APIs, sensors, or user logs. Ensure sufficient quantity, variety, and relevance.
 
-**Data Pre‑processing / EDA**
-  Handle missing values, outliers, anomalies  
-  Encode categorical variables, scale/normalize numerics  
+**Data Pre‑processing / EDA**<br>
+  Handle missing values, outliers, anomalies<br>
+  Encode categorical variables, scale/normalize numerics<br>
   Visualize distributions, correlations, time trends
 
-**Feature Engineering**
+**Feature Engineering**<br>
   Transform raw inputs into informative representations (e.g., TF‑IDF for text, polynomial features, domain‑specific ratios).
 
-**Model Selection**
+**Model Selection**<br>
   Choose algorithms based on data size, feature types, interpretability needs, latency constraints, etc.
 
-**Training**
+**Training**<br>
   Optimize model parameters using techniques such as Gradient Descent or Bayesian estimation.
 
-**Validation & Hyperparameter Tuning**
+**Validation & Hyperparameter Tuning**<br>
   Use hold‑out sets or k‑fold cross‑validation; employ grid/random/bayesian search to fine‑tune hyperparameters.
 
-**Evaluation**
+**Evaluation**<br>
   Metrics vary by task: accuracy, F1, ROC‑AUC for classification; RMSE, MAE for regression; Silhouette score for clustering; cumulative reward for RL.
 
-**Deployment**
+**Deployment**<br>
   Wrap the model in APIs, micro‑services, mobile apps, or embedded firmware. Monitor latency, throughput, resource usage.
 
-**Monitoring & Maintenance**
+**Monitoring & Maintenance**<br>
   Track data drift, concept drift, model performance decay, and trigger retraining or rollback when necessary.
 
 0. Exploratory data analysis (EDA)
