@@ -3,7 +3,7 @@ Machine Learning (ML) is a sub‑field of Artificial Intelligence (AI) tha
 
 ## Fundamental Concept
 **1. Learning From Data**
-  Instead of being explicitly programmed with task‑specific rules, an ML algorithm ingests historical data (the training set) and infers a mapping from inputs 𝑋 to outputs     𝑌. Once trained, the model can process previously unseen inputs and output useful predictions or decisions.
+  Instead of being explicitly programmed with task‑specific rules, an ML algorithm ingests historical data (the training set) and infers a mapping from inputs 𝑋 to outputs     𝑌. Once trained, the model can process previously unseen inputs and output useful predictions or decisions.<br>
 **2. Generalization**
   The hallmark of successful ML is generalization—performing well on new, unseen data. Techniques such as cross‑validation, regularization, and careful feature engineering     help ensure the model captures true signal rather than noise (overfitting).
 
