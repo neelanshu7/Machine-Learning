@@ -1,7 +1,7 @@
 Definition:
 	A probabilistic classifier based on Bayes’ theorem, assuming independence between features.
 
-![Alt text](image.png)
+![Alt text](image.png)<br>
 Types:
 	Gaussian (for continuous data)
 	Multinomial (for discrete counts)
