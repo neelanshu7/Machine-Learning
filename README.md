@@ -51,6 +51,30 @@ Machine Learning (ML) is a sub‑field of Artificial Intelligence (AI) tha
 **Monitoring & Maintenance**<br>
   Track data drift, concept drift, model performance decay, and trigger retraining or rollback when necessary.
 
+## Representative Algorithms
+| Family                       | Example Algorithm                | High‑Level Idea                                                          |
+| ---------------------------- | -------------------------------- | ------------------------------------------------------------------------ |
+| **Linear Models**            | Linear/Logistic Regression       | Fit a straight‑line/decision boundary; interpretable                     |
+| **Distance‑Based**           | KNN, K‑Means                     | Rely on similarity measures in feature space                             |
+| **Tree‑Based Ensembles**     | Random Forest, Gradient Boosting | Combine many decision trees for robustness                               |
+| **Kernel Methods**           | Support Vector Machines          | Map data to higher dimensions for linear separation                      |
+| **Probabilistic Models**     | Naive Bayes, HMM                 | Model underlying probability distributions                               |
+| **Neural Networks**          | MLP, CNN, RNN, Transformers      | Stack layers of nonlinear transformations to learn hierarchical features |
+| **Evolutionary / Heuristic** | Genetic Algorithms, PSO          | Search parameter space via bio‑inspired operations                       |
+
+
+## Common Application Domains
+| Domain                  | ML Tasks                                  | Real‑World Examples                               |
+| ----------------------- | ----------------------------------------- | ------------------------------------------------- |
+| **Vision**              | Classification, detection, segmentation   | Medical imaging diagnostics, autonomous driving   |
+| **Natural Language**    | Translation, sentiment, QA, summarization | Chatbots, document analysis                       |
+| **Time Series**         | Forecasting, anomaly detection            | Energy demand prediction, predictive maintenance  |
+| **Finance**             | Risk scoring, fraud detection             | Credit approval, anti‑money laundering            |
+| **Healthcare**          | Diagnosis, drug discovery                 | Cancer detection, protein folding (AlphaFold)     |
+| **Recommender Systems** | Ranking, collaborative filtering          | Streaming platform suggestions, e‑commerce upsell |
+
+
+## List of Experiments: 
 0. Exploratory data analysis (EDA)
 1. Principal Component Analysis (PCA)
 2. K nearest neighbors (KNN)
